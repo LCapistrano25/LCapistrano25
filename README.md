@@ -84,6 +84,6 @@ Concluí o ensino médio no Instituto Federal do Tocantins e atualmente curso En
 
 <div style='inline-block'>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.capistrano@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/leonardo-capistrano](https://www.linkedin.com/in/leonardo-capistrano-de-sousa-silva-193618284?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBaFAcjOXQuCvZlwe5JKgfw%3D%3D))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.capistrano@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/leonardo-capistrano-de-sousa-silva-193618284)
 </div>
 
