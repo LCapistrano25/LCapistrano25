@@ -23,12 +23,12 @@ Olá! Meu nome é Leonardo Capistrano de Sousa Silva, tenho 19 anos e sou natura
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
     <img 
         alt="GitHub Stats" 
-        height="200px"
+        height="150px"
         src="https://github-readme-stats.vercel.app/api?username=LCapistrano25&show_icons=true&theme=radical&include_all_commits=True&locale=pt-br"
     />
     <img 
         alt="Top Langs" 
-        height="200px"
+        height="150px"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=LCapistrano25&layout=compact&include_all_commits=True&locale=pt-br"
     />
 </div>
