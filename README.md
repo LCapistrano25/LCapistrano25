@@ -1,23 +1,24 @@
-# Leonardo Capistrano  
+
+# 🖥️ Leonardo Capistrano  
 **Desenvolvedor Backend**
 
-Olá! Meu nome é Leonardo Capistrano de Sousa Silva, tenho 19 anos e sou natural de Goiânia.  
-Concluí o ensino médio no Instituto Federal do Tocantins e atualmente curso Engenharia de Software na Universidade Católica do Tocantins.
+Olá! Meu nome é Leonardo Capistrano de Sousa Silva, tenho 19 anos e sou natural de Goiânia.   Concluí o ensino médio no Instituto Federal do Tocantins e atualmente curso Engenharia de Software na Universidade Católica do Tocantins. Sou desenvolvedor backend, focado em criar APIs, automações e outras aplicações.
 
 <div style="display: inline_block">
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-    <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-    <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-    <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-    <img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" height="50px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" height="50px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-plain.svg" alt="Django Rest Framework" height="50px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" height="50px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" height="50px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" height="50px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" height="50px" />  
 </div>
 </br>
 
 ---
 
-## Estatísticas
+## 📈 Estatísticas
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
     <img 
