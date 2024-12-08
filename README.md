@@ -1,6 +1,7 @@
 
 # 🖥️ Leonardo Capistrano  
-**Desenvolvedor Backend**
+
+<p style="background-color: #2c3e50; color: white; padding: 5px; display: inline;">Desenvolvedor Backend</p>
 
 Olá! Meu nome é Leonardo Capistrano de Sousa Silva, tenho 19 anos e sou natural de Goiânia.   Concluí o ensino médio no Instituto Federal do Tocantins e atualmente curso Engenharia de Software na Universidade Católica do Tocantins. Sou desenvolvedor backend, focado em criar APIs, automações e outras aplicações.
 
@@ -23,12 +24,12 @@ Olá! Meu nome é Leonardo Capistrano de Sousa Silva, tenho 19 anos e sou natura
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
     <img 
         alt="GitHub Stats" 
-        height="150px"
+        height="180px"
         src="https://github-readme-stats.vercel.app/api?username=LCapistrano25&show_icons=true&theme=radical&include_all_commits=True&locale=pt-br"
     />
     <img 
         alt="Top Langs" 
-        height="150px"
+        height="180px"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=LCapistrano25&layout=compact&include_all_commits=True&locale=pt-br"
     />
 </div>
