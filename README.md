@@ -63,6 +63,7 @@ Concluí o ensino médio no Instituto Federal do Tocantins e atualmente curso En
 
 - **[Certificado de JavaScript para Web](https://cursos.alura.com.br/certificate/5f14bfb8-c40f-4a19-a6c6-952c196fe123)** - Alura, 2024
 - **[Certificado de Next.js: explorando o framework](https://cursos.alura.com.br/certificate/f147cbbd-934c-48d6-9f80-e14d8eb656b4)** - Alura, 2024
+- **[Certificado de Git e GitHub: dominando controle de versão de código](https://cursos.alura.com.br/formalCertificate/71d0d08c-b410-4c77-91fd-0ae364dd54ad)** - Alura, 2024
 
 ---
 
