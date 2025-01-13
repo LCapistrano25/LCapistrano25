@@ -68,6 +68,7 @@ Concluí o ensino médio no Instituto Federal do Tocantins e atualmente curso En
 - **[Certificado de Pandas: limpeza e tratamento de dados](https://cursos.alura.com.br/formalCertificate/7436a9ea-aa82-40b9-b92a-050230dda277)** - Alura, 2024
 - **[Certificado de Pandas: selecionando e agrupando dados](https://cursos.alura.com.br/formalCertificate/c89c0754-d26b-4dd7-b28a-48e50477528d)** - Alura, 2025
 - **[Certificado de Pandas: transformação e manipulação de dados](https://cursos.alura.com.br/formalCertificate/beb3b644-e8d9-456f-9ed6-8401213e9543)** - Alura, 2025
+- **[Certificado de Python: análise de dados com SQL](https://cursos.alura.com.br/formalCertificate/fec0decf-3dcf-4ea9-bfb0-2954e722245a)** - Alura, 2025
 ---
 
 ## 🧠 Soft Skills
